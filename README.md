@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Olá prazer, sou o Isaque Riberio
+# 👋 Olá prazer, sou o Isaque Ribeiro
 
-## Estudante Back-end
+## Desenvolvedor Back-end Junior
 
 </div>
 
@@ -12,10 +12,10 @@
  
 <div align ="left"> 
   
-  ### -👨‍💻 Atualmente estudo programação voltado para soluções backend
-  ### -🎓 Tenho ensino técnico em Redes de Computadores pela E.E.E.P Rita Aguiar Barbosa
-  ### -🏢 Fiz estágio de 300 horas na área de programação
-  ### -⛰️ Cheguei a programação graças a uma matéria de "lógica de programação" onde ganhei destaque e me identifiquei com a área
+  ### -👨‍💻 Atualmente estudo programação voltado para soluções backend.
+  ### -🎓 Formação no Curso Técnico em Redes de Computadores pela E.E.E.P Rita Aguiar Barbosa, concluído em 2025.
+  ### -🏢 Estágio supervisionado como desenvolvedor na empresa TK2000 com carga horária de 300 horas onde participei de projetos usando C#, ASP.NET e tecnologias como entity framework, identity (framework para fazer autentenficação e autorização), postgres, docker, git e github
+  ### -⛰️ Iniciei na area de desenvolvimento graças a uma matéria de "lógica de programação" onde ganhei destaque e me identifiquei com a área
 
 </div>
 
